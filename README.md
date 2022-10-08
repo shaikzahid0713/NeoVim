@@ -1,2 +1,2 @@
 # NeoVim
-My Configuration for NeoVim
+My Configuration for NeoVim and VS-Code
